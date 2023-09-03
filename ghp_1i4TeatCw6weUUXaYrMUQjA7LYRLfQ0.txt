@@ -1,0 +1,7 @@
+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
+
+git config user.name calman13
+
+git config user.email osci.morales.m@gmail.com
+
+git config user.password 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
